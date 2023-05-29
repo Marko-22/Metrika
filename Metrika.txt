@@ -1,0 +1,16 @@
+Calculator.java
+LOC = 188
+Cikomatska slozenost metoda evaluateExpression je 12
+Kognitivna slozenost metoda evaluateExpression je 5
+Ciklomatska slozenost metoda Calculate je 12
+Kognitivna slozenost metoda Calculate je 9
+
+Greske po linijama koda
+1 treba se kreirate paket
+18 naziv metode treba malim slovom da pocne
+24 naziv metode treba malim slovom da pocne
+74 naziv metode treba malim slovom da pocne
+183 nepotrebna metoda
+
+
+
